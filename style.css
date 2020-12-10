@@ -2,6 +2,7 @@
 
 body {
   background-image: url(../profile/images/tunnel.jpg);
+  background-position: center center;
   font-family: 'Roboto', sans-serif;
   font-color: #98C1D9;
 }
