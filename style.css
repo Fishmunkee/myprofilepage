@@ -2,8 +2,9 @@
 
 body {
   background-color: #293241;
+  background-image: url(/images/tunnel.jpg);
   font-family: 'Roboto', sans-serif;
-  font-color: #040f16;
+  font-color: #98C1D9;
 }
 
 .container {
