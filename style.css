@@ -22,15 +22,15 @@ body {
 }
 
 .card-white .btn-blue {
-  background-color: #040f16;
-  color: #C2EFEB;
+  background-color: #98C1D9;
+  color: #293241;
   text-decoration: none;
   padding: 15px 20px;
   border-radius: 4px;
 }
 
 .btn-blue:hover {
-  background-color: #331E36;
+  background-color: #EE6C4D;
 }
 
 .list-inline {
@@ -45,7 +45,7 @@ body {
 }
 
 .list-inline i:hover {
-  color: #005e7c;
+  color: #EE6C4D;
 }
 
 .list-inline i {
